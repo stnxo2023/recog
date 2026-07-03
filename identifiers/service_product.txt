@@ -489,6 +489,9 @@ Node
 Notebook
 Nucleus SNMP Agent
 Nuggets Learning Server
+Ollama
+ollama-auth-proxy
+OllamaProxy
 OPNSense
 OSSDL.de Openmailadmin
 OTRS x

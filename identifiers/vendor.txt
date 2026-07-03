@@ -586,6 +586,7 @@ Nortel
 Norton
 Novell
 Nuuo
+Ollama
 OPNSense
 OPNsense
 OSSDL.de

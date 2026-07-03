@@ -133,6 +133,7 @@ NetWeaver
 Netscaler
 Network Printer Manager
 Niagara
+Ollama
 OpenAdStream
 OpenSMTPD
 OpenSSH
