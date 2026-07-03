@@ -5208,4 +5208,58 @@
   <param pos="0" name="service.cpe23" value="cpe:/a:mirasvit:cache_warmer:{service.version}"/>
 </fingerprint>
 
+  <fingerprint pattern="^ollama(?: Python/[\d.]+)?$">
+  <description>Ollama LLM inference server (version not disclosed)</description>
+  <example>ollama</example>
+  <example>ollama Python/3.11.15</example>
+  <param pos="0" name="service.vendor" value="Ollama"/>
+  <param pos="0" name="service.product" value="Ollama"/>
+  <param pos="0" name="service.family" value="Ollama"/>
+  <param pos="0" name="service.cpe23" value="cpe:/a:ollama:ollama:-"/>
+  </fingerprint>
+
+  <fingerprint pattern="^ollama/([\d.]+)(?: Python/[\d.]+)?$">
+  <description>Ollama LLM inference server</description>
+  <example service.version="0.12.10">ollama/0.12.10</example>
+  <example service.version="0.11.4">ollama/0.11.4 Python/3.12.3</example>
+  <param pos="0" name="service.vendor" value="Ollama"/>
+  <param pos="0" name="service.product" value="Ollama"/>
+  <param pos="0" name="service.family" value="Ollama"/>
+  <param pos="1" name="service.version"/>
+  <param pos="0" name="service.cpe23" value="cpe:/a:ollama:ollama:{service.version}"/>
+  </fingerprint>
+
+  <fingerprint pattern="^ollama/([\d.]+) \((\S+) on linux\)$">
+  <description>Ollama LLM inference server on Linux</description>
+  <example service.version="0.1.45" os.arch="amd64">ollama/0.1.45 (amd64 on linux)</example>
+  <param pos="0" name="service.vendor" value="Ollama"/>
+  <param pos="0" name="service.product" value="Ollama"/>
+  <param pos="0" name="service.family" value="Ollama"/>
+  <param pos="1" name="service.version"/>
+  <param pos="0" name="service.cpe23" value="cpe:/a:ollama:ollama:{service.version}"/>
+  <param pos="2" name="os.arch"/>
+  <param pos="0" name="os.vendor" value="Linux"/>
+  <param pos="0" name="os.family" value="Linux"/>
+  <param pos="0" name="os.product" value="Linux"/>
+  <param pos="0" name="os.cpe23" value="cpe:/o:linux:linux_kernel:-"/>
+  </fingerprint>
+
+  <fingerprint pattern="^ollama-auth-proxy/([\d.]+)(?: Python/[\d.]+)?$">
+  <description>ollama-auth-proxy - community authenticating reverse proxy for Ollama</description>
+  <example service.version="1.0">ollama-auth-proxy/1.0 Python/3.14.3</example>
+  <param pos="0" name="service.vendor" value="Ollama"/>
+  <param pos="0" name="service.product" value="ollama-auth-proxy"/>
+  <param pos="0" name="service.family" value="Ollama"/>
+  <param pos="1" name="service.version"/>
+  </fingerprint>
+
+  <fingerprint pattern="^OllamaProxy/([\d.]+)(?: Python/[\d.]+)?$">
+  <description>OllamaProxy - community reverse proxy for Ollama</description>
+  <example service.version="1.0">OllamaProxy/1.0 Python/3.9.6</example>
+  <param pos="0" name="service.vendor" value="Ollama"/>
+  <param pos="0" name="service.product" value="OllamaProxy"/>
+  <param pos="0" name="service.family" value="Ollama"/>
+  <param pos="1" name="service.version"/>
+  </fingerprint>
+
 </fingerprints>
