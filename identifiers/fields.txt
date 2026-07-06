@@ -55,6 +55,7 @@ os.device
 os.edition
 os.family
 os.model
+os.platform
 os.product
 os.rev
 os.vendor

@@ -342,12 +342,22 @@ TouchLink Control Panel
 UCM6202
 UCM6204
 UCM6208
+UCG Fiber
+UCG Max
+UCG Ultra
 UCS Manager
+UDM
+UDM Pro
+UDM-Pro-Max
+UDM-SE
+UDR
+UDR7
 UDS
 UPS
 USG20-VPN
 USG40
 USG60
+UniFi
 UniFi Cloud Key
 UniFi NVR
 UniFi Security Gateway
