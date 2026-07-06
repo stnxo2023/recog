@@ -7582,7 +7582,7 @@ Copyright (c) 1995-2005 by Cisco Systems
     <description>Ubiquiti UniFi UCG-Fiber w/Linux and platform version</description>
     <example hw.product="UCG-Fiber" hw.version="5.1.19" os.version="5.4.213">Ubiquiti UniFi UCG-Fiber 5.1.19 Linux 5.4.213 ipq9574</example>
     <param pos="0" name="hw.vendor" value="Ubiquiti"/>
-    <param pos="0" name="hw.product" value="UCG-Fiber"/>
+    <param pos="0" name="hw.product" value="UCG Fiber"/>
     <param pos="0" name="hw.device" value="Networking"/>
     <param pos="1" name="hw.version"/>
     <param pos="0" name="os.vendor" value="Ubiquiti"/>
