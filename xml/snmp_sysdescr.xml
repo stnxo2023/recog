@@ -7462,7 +7462,7 @@ Copyright (c) 1995-2005 by Cisco Systems
     <param pos="0" name="os.vendor" value="Ubiquiti"/>
     <param pos="0" name="os.family" value="Linux"/>
     <param pos="0" name="os.device" value="Networking"/>
-    <param pos="1" name="os.version"/>
+    <param pos="2" name="os.version"/>
     <param pos="3" name="os.platform"/>
   </fingerprint>
 
@@ -7476,7 +7476,7 @@ Copyright (c) 1995-2005 by Cisco Systems
     <param pos="0" name="os.vendor" value="Ubiquiti"/>
     <param pos="0" name="os.family" value="Linux"/>
     <param pos="0" name="os.device" value="Networking"/>
-    <param pos="1" name="os.version"/>
+    <param pos="2" name="os.version"/>
     <param pos="3" name="os.platform"/>
   </fingerprint>
 
@@ -7490,7 +7490,7 @@ Copyright (c) 1995-2005 by Cisco Systems
     <param pos="0" name="os.vendor" value="Ubiquiti"/>
     <param pos="0" name="os.family" value="Linux"/>
     <param pos="0" name="os.device" value="Networking"/>
-    <param pos="1" name="os.version"/>
+    <param pos="2" name="os.version"/>
     <param pos="3" name="os.platform"/>
   </fingerprint>
 
@@ -7504,7 +7504,7 @@ Copyright (c) 1995-2005 by Cisco Systems
     <param pos="0" name="os.vendor" value="Ubiquiti"/>
     <param pos="0" name="os.family" value="Linux"/>
     <param pos="0" name="os.device" value="Networking"/>
-    <param pos="1" name="os.version"/>
+    <param pos="2" name="os.version"/>
     <param pos="3" name="os.platform"/>
   </fingerprint>
 
@@ -7518,7 +7518,7 @@ Copyright (c) 1995-2005 by Cisco Systems
     <param pos="0" name="os.vendor" value="Ubiquiti"/>
     <param pos="0" name="os.family" value="Linux"/>
     <param pos="0" name="os.device" value="Networking"/>
-    <param pos="1" name="os.version"/>
+    <param pos="2" name="os.version"/>
     <param pos="3" name="os.platform"/>
   </fingerprint>
 
@@ -7532,7 +7532,7 @@ Copyright (c) 1995-2005 by Cisco Systems
     <param pos="0" name="os.vendor" value="Ubiquiti"/>
     <param pos="0" name="os.family" value="Linux"/>
     <param pos="0" name="os.device" value="Networking"/>
-    <param pos="1" name="os.version"/>
+    <param pos="2" name="os.version"/>
     <param pos="3" name="os.platform"/>
   </fingerprint>
 
@@ -7546,7 +7546,7 @@ Copyright (c) 1995-2005 by Cisco Systems
     <param pos="0" name="os.vendor" value="Ubiquiti"/>
     <param pos="0" name="os.family" value="Linux"/>
     <param pos="0" name="os.device" value="Networking"/>
-    <param pos="1" name="os.version"/>
+    <param pos="2" name="os.version"/>
     <param pos="3" name="os.platform"/>
   </fingerprint>
 
@@ -7560,7 +7560,7 @@ Copyright (c) 1995-2005 by Cisco Systems
     <param pos="0" name="os.vendor" value="Ubiquiti"/>
     <param pos="0" name="os.family" value="Linux"/>
     <param pos="0" name="os.device" value="Networking"/>
-    <param pos="1" name="os.version"/>
+    <param pos="2" name="os.version"/>
     <param pos="3" name="os.platform"/>
   </fingerprint>
 
@@ -7574,7 +7574,7 @@ Copyright (c) 1995-2005 by Cisco Systems
     <param pos="0" name="os.vendor" value="Ubiquiti"/>
     <param pos="0" name="os.family" value="Linux"/>
     <param pos="0" name="os.device" value="Networking"/>
-    <param pos="1" name="os.version"/>
+    <param pos="2" name="os.version"/>
     <param pos="3" name="os.platform"/>
   </fingerprint>
 
@@ -7588,7 +7588,7 @@ Copyright (c) 1995-2005 by Cisco Systems
     <param pos="0" name="os.vendor" value="Ubiquiti"/>
     <param pos="0" name="os.family" value="Linux"/>
     <param pos="0" name="os.device" value="Networking"/>
-    <param pos="1" name="os.version"/>
+    <param pos="2" name="os.version"/>
     <param pos="3" name="os.platform"/>
   </fingerprint>
 
