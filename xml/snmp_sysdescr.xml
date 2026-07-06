@@ -7482,7 +7482,7 @@ Copyright (c) 1995-2005 by Cisco Systems
 
   <fingerprint pattern="^Ubiquiti UniFi UDM-Pro ([0-9][.a-zA-Z0-9\-]+) Linux ([0-9][.a-zA-Z0-9\-]+) ([a-zA-Z0-9]+)$">
     <description>Ubiquiti UniFi UDM-Pro w/Linux and platform version</description>
-    <example hw.product="UDM-Pro" hw.version="5.1.19" os.version="4.19.152">Ubiquiti UniFi UDM-Pro 5.1.19 Linux 4.19.152 al324</example>
+    <example hw.product="UDM Pro" hw.version="5.1.19" os.version="4.19.152">Ubiquiti UniFi UDM-Pro 5.1.19 Linux 4.19.152 al324</example>
     <param pos="0" name="hw.vendor" value="Ubiquiti"/>
     <param pos="0" name="hw.product" value="UDM Pro"/>
     <param pos="0" name="hw.device" value="Networking"/>
@@ -7552,7 +7552,7 @@ Copyright (c) 1995-2005 by Cisco Systems
 
   <fingerprint pattern="^Ubiquiti UniFi UCG-Ultra ([0-9][.a-zA-Z0-9\-]+) Linux ([0-9][.a-zA-Z0-9\-]+) ([a-zA-Z0-9]+)$">
     <description>Ubiquiti UniFi UCG-Ultra w/Linux and platform version</description>
-    <example hw.product="UCG-Ultra" hw.version="5.1.19" os.version="5.4.213">Ubiquiti UniFi UCG-Ultra 5.1.19 Linux 5.4.213 ipq5322</example>
+    <example hw.product="UCG Ultra" hw.version="5.1.19" os.version="5.4.213">Ubiquiti UniFi UCG-Ultra 5.1.19 Linux 5.4.213 ipq5322</example>
     <param pos="0" name="hw.vendor" value="Ubiquiti"/>
     <param pos="0" name="hw.product" value="UCG Ultra"/>
     <param pos="0" name="hw.device" value="Networking"/>
@@ -7566,7 +7566,7 @@ Copyright (c) 1995-2005 by Cisco Systems
 
   <fingerprint pattern="^Ubiquiti UniFi UCG-Max ([0-9][.a-zA-Z0-9\-]+) Linux ([0-9][.a-zA-Z0-9\-]+) ([a-zA-Z0-9]+)$">
     <description>Ubiquiti UniFi UCG-Max w/Linux and platform version</description>
-    <example hw.product="UCG-Max" hw.version="5.1.19" os.version="5.4.213">Ubiquiti UniFi UCG-Max 5.1.19 Linux 5.4.213 ipq5322</example>
+    <example hw.product="UCG Max" hw.version="5.1.19" os.version="5.4.213">Ubiquiti UniFi UCG-Max 5.1.19 Linux 5.4.213 ipq5322</example>
     <param pos="0" name="hw.vendor" value="Ubiquiti"/>
     <param pos="0" name="hw.product" value="UCG Max"/>
     <param pos="0" name="hw.device" value="Networking"/>
@@ -7580,7 +7580,7 @@ Copyright (c) 1995-2005 by Cisco Systems
 
   <fingerprint pattern="^Ubiquiti UniFi UCG-Fiber ([0-9][.a-zA-Z0-9\-]+) Linux ([0-9][.a-zA-Z0-9\-]+) ([a-zA-Z0-9]+)$">
     <description>Ubiquiti UniFi UCG-Fiber w/Linux and platform version</description>
-    <example hw.product="UCG-Fiber" hw.version="5.1.19" os.version="5.4.213">Ubiquiti UniFi UCG-Fiber 5.1.19 Linux 5.4.213 ipq9574</example>
+    <example hw.product="UCG Fiber" hw.version="5.1.19" os.version="5.4.213">Ubiquiti UniFi UCG-Fiber 5.1.19 Linux 5.4.213 ipq9574</example>
     <param pos="0" name="hw.vendor" value="Ubiquiti"/>
     <param pos="0" name="hw.product" value="UCG Fiber"/>
     <param pos="0" name="hw.device" value="Networking"/>
