@@ -298,8 +298,8 @@ UCM6208 Firmware
 UCS Device
 UDM
 UDM Pro
-UDM-Pro-Max
-UDM-SE
+UDM Pro Max
+UDM SE
 UDR
 UDR7
 UNIX
