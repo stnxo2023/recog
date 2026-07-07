@@ -289,10 +289,19 @@ Tomato
 TomatoUSB
 Traverse
 Tru64 Unix
+UCG Fiber
+UCG Max
+UCG Ultra
 UCM6202 Firmware
 UCM6204 Firmware
 UCM6208 Firmware
 UCS Device
+UDM
+UDM Pro
+UDM-Pro-Max
+UDM-SE
+UDR
+UDR7
 UNIX
 USG20-VPN firmware
 USG40 firmware
