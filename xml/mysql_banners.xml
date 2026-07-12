@@ -17,7 +17,7 @@
     <description>Amazon Aurora MySQL</description>
     <example service.version="5.7" service.component.version="3.04.0">5.7.mysql_aurora.3.04.0</example>
     <example service.version="8.0" service.component.version="3.04.0">8.0.mysql_aurora.3.04.0</example>
-    <example service.version="8.0.mysql_aurora" service.component.version="2.11.0">8.0.mysql_aurora.2.11.0</example>
+    <example service.version="8.0" service.component.version="2.11.0">8.0.mysql_aurora.2.11.0</example>
     <example service.version="9.0" service.component.version="1.00.0">9.0.mysql_aurora.1.00.0</example>
     <param pos="1" name="service.version"/>
     <param pos="2" name="service.component.version"/>
