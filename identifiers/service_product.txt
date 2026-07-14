@@ -67,6 +67,7 @@ Atmail x
 Atomic CMS x
 Augmenting Radiology Platform
 Aura Communication Manager
+Aurora MySQL
 AuthServ
 Authoritative Server
 Avahi
